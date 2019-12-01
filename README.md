@@ -1,0 +1,3 @@
+# PracticeGIT
+Practicing GIT
+"Hi"
